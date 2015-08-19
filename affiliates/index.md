@@ -3,9 +3,24 @@ layout: page
 title: Affiliates
 ---
 
-TODO: add description here.
+## Partners
 
-* [Sponsors](sponsors.html)
-* [Partners](partners.html)
-* [Friends](friends.html)
-* [Legal Document](/legal-documents/affiliates.html)
+[Become a Partner](/legal-documents/affiliates.html)
+
+## Sponsors
+
+### Gold
+
+[Become a Gold Sponsor](/legal-documents/affiliates.html)
+
+### Silver
+
+[Become a Silver Sponsor](/legal-documents/affiliates.html)
+
+### Bronze
+
+[Become a Bronze Sponsor](/legal-documents/affiliates.html)
+
+## Friends
+
+[Become a Friend](/legal-documents/affiliates.html)

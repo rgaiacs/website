@@ -39,12 +39,8 @@ header:
   - title: Affiliates
     url: /affiliates/index.html
     sub:
-      - title: Sponsors
-        url: /affiliates/sponsors.html
-      - title: Partners
-        url: /affiliates/partners.html
-      - title: Friends
-        url: /affiliates/friends.html
+      - title: Join us
+        url: /legal-documents/affiliates.html
       - title: Donate
         url: /affiliates/donate.html
   - title: Contact
