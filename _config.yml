@@ -21,7 +21,7 @@ header:
       - title: Reports
         url: /reports/index.html
       - title: Meetings
-        url: /meetings/meetings.html
+        url: /meetings/index.html
       - title: Twitter
         url: https://twitter.com/mathml3
       - title: Reedit
@@ -29,14 +29,21 @@ header:
   - title: About
     url: /about.html
     sub:
-      - title: Directors
-        url: /directors.html
       - title: Logos
         url: /logo/index.html
       - title: Documents
         url: /legal-documents/index.html
       - title: FAQ
         url: /faq.html
+  - title: Team
+    url: /team/index.html
+    sub:
+      - title: Directors
+        url: /team/directors.html
+      - title: Advisers
+        url: /team/advisers.html
+      - title: Former
+        url: /team/history.html
   - title: Affiliates
     url: /affiliates/index.html
     sub:
